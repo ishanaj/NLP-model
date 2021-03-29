@@ -21,7 +21,7 @@ The sentiments can be predicted in a better way if we use the dependency tree to
 For e.g., a sentence containing terms like “not very good”. The model would consider good and very to point towards positive polarity, however, if we go deep into the dependency tree, we might find a negation, which would invert the polarity.
 
 
-# Short note on favourite Machine Learning library
+# Machine Learning libraries
 I find KERAS to be a very powerful library. Keras overpowers other machine learning libraries, similar to how python dominates other languages in terms of ease of writing code and fast deployment of projects/models. One can simply transfer his/her thinking into a piece of code.
 
 Keras has many pre-trained models like MobileNet, DenseNet, ImageNet, etc. which can be directly used for making predictions, feature learning, or transfer learning.
